@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-dir-prefix",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A PicGo plugin for prefix with directory name",
   "main": "dist/index.js",
   "publishConfig": {
@@ -10,6 +10,7 @@
     "build": "tsc -p .",
     "prepublish": "npm run build"
   },
+  "homepage": "https://github.com/karboom/picgo-plugin-dir-prefix",
   "keywords": [
     "picgo",
     "picgo-gui-plugin",
